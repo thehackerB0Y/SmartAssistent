@@ -1,1 +1,1 @@
-<h1>SmartAssistent</h1>
+<h1>Smart Assistent</h1>
